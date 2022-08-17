@@ -72,3 +72,6 @@ Mozilla and Hubs believe that privacy is fundamental to a healthy internet. Read
 ## License
 
 Hubs is licensed with the [Mozilla Public License 2.0](./LICENSE)
+
+
+https://www.infiniteloop.co.jp/tech-blog/2022/02/mozilla-hubs-on-virtualbox/
