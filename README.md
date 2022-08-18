@@ -75,3 +75,12 @@ Hubs is licensed with the [Mozilla Public License 2.0](./LICENSE)
 
 
 https://www.infiniteloop.co.jp/tech-blog/2022/02/mozilla-hubs-on-virtualbox/
+
+https://www.youtube.com/watch?v=NiINMxfLXSw
+
+
+https://travistidwell.com/jsencrypt/demo/
+
+https://threejs-journey.com/lessons/37#
+
+https://www.howtoforge.com/tutorial/debian-minimal-server/
