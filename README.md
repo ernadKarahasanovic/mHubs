@@ -31,6 +31,9 @@ npm run dev
 ```
 fJZn307smG
 
+
+
+
 The backend dev server is configured with CORS to only accept connections from "hubs.local:8080", so you will need to access it from that host. To do this, you likely want to add "hubs.local" and "hubs-proxy.local" to the [local "hosts" file](https://phoenixnap.com/kb/how-to-edit-hosts-file-in-windows-mac-or-linux) on your computer:
 
 ```
@@ -89,5 +92,9 @@ https://www.howtoforge.com/tutorial/debian-minimal-server/
 https://github.com/albirrkarim/mozilla-hubs-installation-detailed
 
 https://super-unix.com/superuser/linux-copying-from-one-file-to-another-using-nano-editor/
-167 .235  .136   .40
+167 .235  
 
+
+https://superuser.com/questions/1214159/how-to-change-debian-linux-domainname
+
+.136   .40
