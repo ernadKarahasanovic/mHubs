@@ -93,7 +93,9 @@ https://github.com/albirrkarim/mozilla-hubs-installation-detailed
 
 https://super-unix.com/superuser/linux-copying-from-one-file-to-another-using-nano-editor/
 167 .235  
-
+/*/*/*/*/*/*/*/*/
+https://github.com/albirrkarim/mozilla-hubs-installation-detailed/commit/fc316a9287df022c7ad7de87c6a203161cf49131
+/*/*/*/*/*/*/*/*/*
 
 https://superuser.com/questions/1214159/how-to-change-debian-linux-domainname
 
