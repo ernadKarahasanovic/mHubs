@@ -100,3 +100,6 @@ https://github.com/albirrkarim/mozilla-hubs-installation-detailed/commit/fc316a9
 https://superuser.com/questions/1214159/how-to-change-debian-linux-domainname
 
 .136   .40
+
+
+https://stackoverflow.com/questions/66757403/send-data-variable-from-child-to-parent-using-vuejs
