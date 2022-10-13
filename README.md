@@ -111,3 +111,6 @@ https://ue5study.com/unrealengine-mobile/
 https://qiita.com/wirsind55/items/b409fb9b0ff4ceb6eb9d
 
 https://zenn.dev/kou029w/articles/hubs-custom-reticulum
+
+
+https://stackoverflow.com/questions/71754121/how-to-use-fullcalendar-with-nuxt3-getting-vite-ssr-import-1-is-not-defined
