@@ -117,3 +117,5 @@ https://stackoverflow.com/questions/71754121/how-to-use-fullcalendar-with-nuxt3-
 
 
 https://www.youtube.com/watch?v=dRuI5KsUh7Y
+
+https://framesynthesis.jp/tech/hubs/
